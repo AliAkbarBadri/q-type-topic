@@ -1,2 +1,2 @@
 # q-type-topic
-Question type topic for Persian implementation
+Deep Learning Implementation of paper "Topics for Types: a Joint Question Type-Topic Classification in Persian Community Question Answering"
